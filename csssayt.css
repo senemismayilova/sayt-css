@@ -1,0 +1,399 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.ccc{
+width: 100%;
+height: 900px;
+background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg );
+text-align: center;
+background-position: center center;
+background-repeat: no repeat;
+background-size: cover;
+margin: auto;
+
+padding-top: 280px;
+} 
+
+.ccc h1{
+
+    font-size: 88px;
+    font-family: sans-serif;
+}
+
+.ccc h3{
+
+    font-size: 28px;
+    font-family: sans-serif;
+margin-bottom: 50px;
+}
+.ccc a{
+
+
+    text-decoration: none;
+    color: white;
+    background-color: #10809f;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+.icon3x{
+
+    font-size: 50px;
+
+}
+
+
+.bosbos{
+    width: 100%;
+height: 300px;
+
+ 
+    font-weight: 700px;
+ 
+text-align: center;
+text-decoration: none;
+margin-top: 80px;
+background-size: cover;
+
+}
+.bosbos h2{text-decoration: none;
+    
+}
+.h2aa{
+    display: block;
+    font-size: calc(1.325rem + 0.9vw);
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+.bosbos p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.bosbos button{
+    text-decoration: none;
+    color: white;
+    background-color: #0b0b0b;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+
+.axsaqaldiv{
+
+    width: 100%;
+    height: 700px;
+    background-color: #10809f;
+
+
+
+
+}
+.axsaqaldiv h3{
+text-align: center;
+  padding-bottom: -90px;
+ padding: 30px;
+ color: blanchedalmond;
+}
+.axsaqaldiv h2{
+text-align: center;
+
+
+}
+.div4{
+    display: flex;
+    height: 100%x;
+width: 700px;
+position: relative;
+justify-content: center;
+margin-bottom: 300px;
+margin-left: 400px;
+margin-top: 100px;
+
+}
+
+
+
+.div4 div{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+   border-radius: 45px;
+    border-top: 30px;
+margin: auto;
+font-size:70px;
+text-align: center;
+background: top 10px;
+
+}
+
+
+
+.fotoo{
+background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    width: 100%;
+height: 800px;
+text-align: center;
+background-position: center center;
+background-repeat: no repeat;
+background-size: cover;
+margin: auto;
+align-items: center;
+padding-top: 220px;
+
+}
+.fa-thin fa-mobile-button{
+    height: 200px;
+    font-size: 33px;
+
+}
+.fotoo h1{
+   
+    display: block;
+   
+padding-top: 50px;
+font-size: 50px
+
+;
+font-weight: 100;
+}
+.fotoo button{
+    text-decoration: none;
+    color: white;
+    background-color: #10809f;
+   width: 188px;
+   height:65px ;
+    border-radius: 3px;
+    border: none;
+    
+
+}
+.contenr{
+    width: 100%
+    
+    ;
+
+   position: relative;
+    height: 900px;
+    display: flex;
+   align-items: center center;
+position: relative;
+    justify-items: center;
+    flex-wrap: wrap;
+margin: 70px auto;
+margin-left: 80px;
+margin-bottom: 550px;
+
+}
+.itime{clip-path: inset(0);
+transition: 0,7s;
+width: 45%;
+height: 500px;
+position: relative;
+
+}
+
+.itime>img{
+position: relative;
+    width: 100%;
+    height: 100%;
+}
+.ovarlayer{
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+    inset: 0;
+    color: aliceblue;
+    font-size: 24px;
+display: flex;
+align-items: flex-end;
+padding: 50px;
+
+}
+
+.itime:hover .ovarlayer{
+transform: scale(0,5);
+  background-color: blue;
+}
+.itime:hover{
+    clip-path: inset(30px);
+}
+
+
+
+
+.www{ font-size: 22px;}
+
+.sondiv{margin-top: 50px;
+height: 550px;
+width: 100%;
+background-color: aqua;
+position: relative;
+margin-top: -400px;
+
+}
+
+.sondiv h1{
+
+text-align: center;
+padding-top: 50px;
+
+}
+.ass{text-align: center;
+
+    color: rgb(245, 241, 241);
+    margin: auto;
+    background-color: rgb(25, 26, 26);
+    height: 60px;width: 140px;
+    border-radius: 7px;
+    position: absolute;
+    margin-left: -230px
+    
+}
+.asss{
+color: black;
+margin: auto;
+background-color: rgb(255, 255, 255);
+height: 60px;width: 140px;
+border-radius: 7px;
+position: absolute;
+margin-left: -59px;
+
+}
+.azx{
+
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+
+.sondiv h1{
+
+margin-bottom: 40px;
+
+}
+
+
+
+iframe{
+    height: 700px;
+    width: 100%;
+    padding-bottom: 50px
+    ;
+    margin-top: -200px;
+    z-index: 1;
+position: relative;
+}
+
+
+footer i{width: 50px;background-color: aqua;
+position: relative;
+height: 70px;
+width: 90px;
+
+
+
+border-radius: 50px;
+}
+
+
+
+
+.map{
+    width: 100%
+    ;
+    height: 100px;
+
+position: relative;
+
+
+}
+
+
+
+.qqq{
+    text-align: center;
+margin: auto;
+   width: 2cpx;
+   height: 80px;
+margin-top: 50px;
+font-size: 20px;
+
+
+}
+.esas{
+width: 100%;
+height: 100px;
+
+margin-top: 456px;
+}
+
+
+
+.esas ul{
+
+    display: flex;
+    height: 100%x;
+width: 100px;
+
+justify-content: center;
+margin: auto;
+}
+
+.lul i{background-color: aqua;
+    height: 55px;
+    width: 55px;
+   border-radius: 45px;
+    border-top: 30px;
+margin: auto;
+font-size:50px;
+text-align: center;
+
+}
+
+.tul i{background-color: aqua;
+    height: 55px;
+    width: 55px;
+   border-radius: 45px;
+    border-top: 30px;
+margin: auto;
+font-size:50px;
+text-align: center;
+
+}
+
+.aaa{background-color: aqua;
+    height: 55px;
+    width: 55px;
+   border-radius: 45px;
+    border-top: 30px;
+margin: auto;
+font-size:50px;
+text-align: center;
+background: top 10px;
+}
+
+
+
+
+.sonox i{
+
+    height: 40px;
+    width: 40px;
+    background-color: aqua;
+    position: fixed;
+}
